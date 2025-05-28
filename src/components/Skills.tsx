@@ -7,17 +7,17 @@ export default function Skills() {
   const isInView = useInView(skillsRef, { once: true });
 
   const technicalSkills = [
-    { name: 'Frontend Development', level: 95 },
-    { name: 'React & Next.js', level: 90 },
-    { name: 'UI/UX Design', level: 85 },
-    { name: 'Backend Development', level: 80 }
+    { name: 'Java & Spring Boot', level: 90 },
+    { name: 'Angular & React', level: 85 },
+    { name: 'Microservices', level: 85 },
+    { name: 'SQL & MongoDB', level: 80 }
   ];
 
   const professionalSkills = [
-    { name: 'Communication', value: 90, icon: '🗣️' },
-    { name: 'Teamwork', value: 95, icon: '👥' },
-    { name: 'Creativity', value: 85, icon: '🎨' },
-    { name: 'Project Management', value: 88, icon: '📊' }
+    { name: 'Problem Solving', value: 90, icon: '🧩' },
+    { name: 'System Design', value: 85, icon: '🏗️' },
+    { name: 'Team Collaboration', value: 90, icon: '👥' },
+    { name: 'Project Management', value: 85, icon: '📊' }
   ];
 
   return (

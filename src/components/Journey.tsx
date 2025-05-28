@@ -15,19 +15,14 @@ export default function Journey() {
             <div className="space-y-8">
               {[
                 {
-                  year: '2020 - 2022',
-                  title: 'Master Degree - University',
-                  description: 'Masters in Computer Science with focus on Web Technologies and UI/UX Design.'
+                  year: '2017 - 2021',
+                  title: 'B.Tech CSE - DIT University',
+                  description: 'Graduated with 7.9 CGPA from DIT University, Dehradun.'
                 },
                 {
-                  year: '2016 - 2020',
-                  title: 'Bachelor Degree - University',
-                  description: 'Bachelor in Computer Science, graduated with honors.'
-                },
-                {
-                  year: '2014 - 2016',
-                  title: 'High School Diploma',
-                  description: 'Advanced courses in Computer Science and Mathematics.'
+                  year: '2016',
+                  title: '12th CBSE - Nosegay Public School',
+                  description: 'Completed 12th grade with 84.5% from Nosegay Public School, Uttarakhand.'
                 }
               ].map((item, index) => (
                 <div 
@@ -55,22 +50,22 @@ export default function Journey() {
             <div className="space-y-8">
               {[
                 {
-                  year: '2022 - Present',
-                  title: 'Senior Frontend Developer',
-                  company: 'Tech Solutions Inc.',
-                  description: 'Leading frontend development team, implementing modern web technologies.'
+                  year: 'Oct 2021 - Present',
+                  title: 'Specialist Programmer',
+                  company: 'Infosys',
+                  description: 'Working on healthcare domain projects including IAAS Platform and MedTrack. Developed features using Spring Boot, Angular, and React. Led development of ingestion module and improved service performance by 40%.'
                 },
                 {
-                  year: '2020 - 2022',
-                  title: 'Frontend Developer',
-                  company: 'Digital Agency',
-                  description: 'Developed responsive web applications using React and Next.js.'
+                  year: '2023',
+                  title: 'UCC HUB Project',
+                  company: 'Infosys',
+                  description: 'Developed features for telecom service provider platform using Spring microservices, Angular, and Spring Batch. Implemented authentication, data processing, and inter-service communication.'
                 },
                 {
-                  year: '2019 - 2020',
-                  title: 'Junior Developer',
-                  company: 'Startup Hub',
-                  description: 'Worked on various web development projects using modern frameworks.'
+                  year: '2022',
+                  title: 'Personal Projects',
+                  company: 'Self',
+                  description: 'Built Instagram clone using Spring Microservices & Angular, E-commerce website using React & Next.js, and Portfolio website using Next.js & Tailwind CSS.'
                 }
               ].map((item, index) => (
                 <div 

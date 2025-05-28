@@ -22,7 +22,7 @@ export default function Contact() {
                 <span className="text-2xl">📍</span>
               </div>
               <h3 className="text-white font-semibold mb-2">Location</h3>
-              <p className="text-[#707793]">New York, USA</p>
+              <p className="text-[#707793]">Chandigarh, India</p>
             </div>
 
             <div 
@@ -34,7 +34,7 @@ export default function Contact() {
                 <span className="text-2xl">📧</span>
               </div>
               <h3 className="text-white font-semibold mb-2">Email</h3>
-              <p className="text-[#707793]">contact@example.com</p>
+              <p className="text-[#707793]">sahiscord@gmail.com</p>
             </div>
 
             <div 
@@ -46,7 +46,7 @@ export default function Contact() {
                 <span className="text-2xl">📱</span>
               </div>
               <h3 className="text-white font-semibold mb-2">Phone</h3>
-              <p className="text-[#707793]">+1 234 567 890</p>
+              <p className="text-[#707793]">+91 8449308713</p>
             </div>
           </div>
 

@@ -20,7 +20,7 @@ export default function Hero() {
               <span className="text-[#3BBA9C] inline-block">
                 <Typewriter
                   options={{
-                    strings: ['Jacob Aiden', 'a Developer', 'a Designer'],
+                    strings: ['Sahishanu Chand', 'a Developer', 'a Full Stack Engineer'],
                     autoStart: true,
                     loop: true,
                   }}
@@ -33,7 +33,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 1 }}
               className="text-xl md:text-2xl text-[#3BBA9C] mb-6"
             >
-              Frontend Developer
+              Specialist Programmer at Infosys
             </motion.h2>
             <motion.p 
               initial={{ y: 20, opacity: 0 }}
@@ -41,8 +41,8 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 1.2 }}
               className="text-[#707793] mb-8 max-w-lg text-base md:text-lg mx-auto md:mx-0"
             >
-              Crafting digital experiences with clean code and creative design.
-              Turning ideas into interactive realities.
+              Full stack developer with expertise in Java, Spring Boot, Angular, and React.
+              Passionate about building scalable applications and optimizing system performance.
             </motion.p>
             <motion.div 
               initial={{ y: 20, opacity: 0 }}
@@ -66,7 +66,7 @@ export default function Hero() {
           >
             <div className="relative w-[280px] h-[280px] md:w-[400px] md:h-[400px] rounded-full overflow-hidden">
               <Image
-                src="/photo.jpg"
+                src="/photo.png"
                 alt="Profile"
                 fill
                 className="object-cover"

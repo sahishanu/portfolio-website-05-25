@@ -30,7 +30,7 @@ export default function About() {
               </div>
               <h3 className="text-white text-xl font-semibold mb-2">Years Experience</h3>
               <p className="text-[#707793]">
-                Dedicated to crafting exceptional web experiences and solving complex problems.
+                Dedicated to building scalable applications and optimizing system performance.
               </p>
             </motion.div>
 
@@ -42,11 +42,11 @@ export default function About() {
               className="bg-[#2E3047] p-8 rounded-lg shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1 group"
             >
               <div className="text-[#3BBA9C] text-4xl mb-4 group-hover:scale-110 transition-transform">
-                <span className="font-bold">50+</span>
+                <span className="font-bold">600+</span>
               </div>
-              <h3 className="text-white text-xl font-semibold mb-2">Projects Completed</h3>
+              <h3 className="text-white text-xl font-semibold mb-2">DSA Problems Solved</h3>
               <p className="text-[#707793]">
-                Successfully delivered projects ranging from small businesses to enterprise solutions.
+                Solved problems on Leetcode, GeeksForGeeks, and HackerRank platforms.
               </p>
             </motion.div>
 
@@ -58,11 +58,11 @@ export default function About() {
               className="bg-[#2E3047] p-8 rounded-lg shadow-xl hover:shadow-2xl transition-all hover:-translate-y-1 group"
             >
               <div className="text-[#3BBA9C] text-4xl mb-4 group-hover:scale-110 transition-transform">
-                <span className="font-bold">20+</span>
+                <span className="font-bold">8+</span>
               </div>
-              <h3 className="text-white text-xl font-semibold mb-2">Happy Clients</h3>
+              <h3 className="text-white text-xl font-semibold mb-2">Projects Completed</h3>
               <p className="text-[#707793]">
-                Building lasting relationships through quality work and reliable service.
+                Successfully delivered projects in healthcare and e-commerce domains.
               </p>
             </motion.div>
           </div>
@@ -78,35 +78,34 @@ export default function About() {
               <div>
                 <h3 className="text-2xl font-bold text-[#3BBA9C] mb-6">Who I Am</h3>
                 <p className="text-[#707793] mb-4 leading-relaxed">
-                  A passionate frontend developer with a keen eye for design and a commitment to creating 
-                  seamless user experiences. I blend technical expertise with creative problem-solving 
-                  to build modern web applications.
+                  A full stack developer with expertise in Java, Spring Boot, Angular, and React. Currently working as a
+                  Specialist Programmer at Infosys, focusing on healthcare domain projects.
                 </p>
                 <p className="text-[#707793] leading-relaxed">
-                  My approach combines clean code principles with innovative design thinking, 
-                  ensuring both functionality and aesthetics in every project.
+                  Passionate about building scalable applications and optimizing system performance. Strong problem-solving skills
+                  with 600+ DSA problems solved across various platforms.
                 </p>
               </div>
               <div className="space-y-4">
                 <div className="flex justify-between items-center">
                   <span className="text-white">Name:</span>
-                  <span className="text-[#707793]">Jacob Aiden</span>
-                </div>
-                <div className="flex justify-between items-center">
-                  <span className="text-white">Age:</span>
-                  <span className="text-[#707793]">25</span>
+                  <span className="text-[#707793]">Sahishanu Chand</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-white">Location:</span>
-                  <span className="text-[#707793]">New York, USA</span>
+                  <span className="text-[#707793]">Chandigarh, India</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-white">Email:</span>
-                  <span className="text-[#707793]">contact@example.com</span>
+                  <span className="text-[#707793]">sahiscord@gmail.com</span>
+                </div>
+                <div className="flex justify-between items-center">
+                  <span className="text-white">Phone:</span>
+                  <span className="text-[#707793]">+91 8449308713</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-white">Availability:</span>
-                  <span className="text-[#3BBA9C]">Open for Work</span>
+                  <span className="text-[#3BBA9C]">Open to Opportunities</span>
                 </div>
                 <div className="pt-4 flex gap-4">
                   <a href="/resume.pdf" className="px-6 py-3 bg-[#3BBA9C] text-[#2E3047] rounded-md hover:bg-opacity-90 transition-all">

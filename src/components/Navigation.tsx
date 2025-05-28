@@ -69,7 +69,7 @@ export default function Navigation() {
         transition={{ duration: 0.5 }}
         className="text-2xl font-bold text-[#3BBA9C]"
       >
-        Jacob.
+        Sahishanu.
       </motion.div>
 
       {/* Desktop Menu */}
